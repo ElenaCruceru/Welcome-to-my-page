@@ -1,0 +1,40 @@
+<html>     
+<head>    
+<title>    
+  Elena Cruceru - Welcome to my page  
+</title>    
+</head>    
+<body  bgcolor=#D9FFFE>   
+<center>    
+<h1> Cities I want to see </h1>      
+<br>  
+<br>  
+<p> Hi! My name is Elena and my favorite hobby is traveling. When Corona will let me, this will be my next destinations:
+<center>  
+<table>  
+    <tr bgcolor="blue">  
+        <td> No. </td>  
+        <td> Name </td>  
+    </tr>  
+    <tr bgcolor="lightblue">  
+        <td> 1 </td>  
+        <td> Paris </td>  
+    </tr>  
+    <tr bgcolor="brown">  
+        <td> 2 </td>  
+        <td> London </td>  
+    </tr>  
+    <tr bgcolor="orange">  
+        <td> 3 </td>  
+        <td> Miami </td>  
+    </tr>   
+    <tr bgcolor="lightgreen">  
+        <td> 4 </td>  
+        <td> Milano </td>  
+    </tr>  
+</table>  
+</center> 
+<h2>My passport definetly miss aircrafts shootings</h2>  
+<img src="20190316_193455-01.jpg" height="180" width="300"/>  
+</body>    
+</html> 
